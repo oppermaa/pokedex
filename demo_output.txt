@@ -1,0 +1,88 @@
+oppermaa@DESKTOP-TJHHT49:~/classes/cis343/projects/pokedex$ npm start
+
+> pokedex@1.0.0 start
+> node main.js
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 1
+Enter search term: notAPokemon
+
+Unable to fetch data for notAPokemon
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 1
+Enter search term: pikachu
+
+PIKACHU
+--------------------
+WEIGHT: 6 kg
+HEIGHT: 0.4 m
+BASE EXP: 112
+MOVES: mega-punch, pay-day, thunder-punch, slam, double-kick, mega-kick, headbutt, body-slam, take-down, double-edge, tail-whip, growl, surf, submission, counter, seismic-toss, strength, thunder-shock, thunderbolt, thunder-wave, thunder, dig, toxic, agility, quick-attack, rage, mimic, double-team, defense-curl, light-screen, reflect, bide, swift, skull-bash, flash, rest, substitute, thief, snore, curse, reversal, protect, sweet-kiss, mud-slap, zap-cannon, detect, endure, charm, rollout, swagger, spark, attract, sleep-talk, return, frustration, dynamic-punch, encore, iron-tail, hidden-power, rain-dance, rock-smash, uproar, facade, focus-punch, charge, helping-hand, brick-break, knock-off, endeavor, secret-power, fake-tears, signal-beam, covet, volt-tackle, calm-mind, shock-wave, natural-gift, feint, fling, magnet-rise, nasty-plot, discharge, captivate, grass-knot, charge-beam, electro-ball, round, echoed-voice, volt-switch, electroweb, wild-charge, disarming-voice, draining-kiss, play-rough, play-nice, confide, eerie-impulse, electric-terrain, nuzzle, laser-focus, rising-voltage, tera-blast, trailblaze, alluring-voice, upper-hand
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 3
+Enter search term: thunderbol
+
+Unable to fetch data for thunderbol
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 3
+Enter search term: thunderbolt
+
+THUNDERBOLT
+--------------------
+POWER: 90
+ACCURACY: 100
+DAMAGE TYPE: special
+EFFECTS: Has a 10% chance to paralyze the target.
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 2
+Enter search term: super potion
+
+Unable to fetch data for super potion
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 2
+Enter search term: super-potion
+
+SUPER-POTION
+--------------------
+CATEGORY: healing
+COST: 700₽
+DESCRIPTION: Restores 50 HP.
+ATTRIBUTES: countable, consumable, usable-overworld, usable-in-battle, holdable
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 5
+
+Invalid input
+
+1. Search for Pokemon
+2. Search for Item
+3. Search for Move
+4. Quit
+Enter choice (1/2/3/4): 4
+oppermaa@DESKTOP-TJHHT49:~/classes/cis343/projects/pokedex$
